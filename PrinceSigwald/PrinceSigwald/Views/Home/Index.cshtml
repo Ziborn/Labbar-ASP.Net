@@ -1,0 +1,16 @@
+﻿@using PrinceSigwald.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Favorite bands</title>
+</head>
+<body>
+    <h1>Favorite Bands</h1>
+    <ul>
+        @foreach(var band in ViewBag.Bands)
+        { 
+            <li>@band.Name</li>
+        }
+    </ul>
+</body>
+</html>

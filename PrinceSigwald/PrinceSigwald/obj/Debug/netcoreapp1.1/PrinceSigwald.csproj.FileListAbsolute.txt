@@ -1,0 +1,11 @@
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\bin\Debug\netcoreapp1.1\PrinceSigwald.deps.json
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\bin\Debug\netcoreapp1.1\PrinceSigwald.runtimeconfig.json
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\bin\Debug\netcoreapp1.1\PrinceSigwald.runtimeconfig.dev.json
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\bin\Debug\netcoreapp1.1\PrinceSigwald.dll
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\obj\Debug\netcoreapp1.1\PrinceSigwald.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\obj\Debug\netcoreapp1.1\PrinceSigwald.AssemblyInfo.cs
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\bin\Debug\netcoreapp1.1\PrinceSigwald.pdb
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\obj\Debug\netcoreapp1.1\PrinceSigwald.dll
+c:\users\anders\documents\visual studio 2017\Projects\ASP.Net\PrinceSigwald\PrinceSigwald\obj\Debug\netcoreapp1.1\PrinceSigwald.pdb
